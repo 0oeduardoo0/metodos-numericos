@@ -1,0 +1,5 @@
+{
+   "function": "sin(3*x)+cos(3*x)",
+   "interval": "-2, 2, 0.5",
+   "min_error_percent": "0.001"
+}
